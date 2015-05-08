@@ -1,0 +1,21 @@
+{
+  "name": "node-sample",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.12.3",
+    "jade": "~1.9.2",
+    "mongojs": "^0.18.2",
+    "trim": "0.0.1",
+    "follow-redirects": "0.0.3",
+    "cheerio": "^0.19.0",
+    "method-override": "^2.3.2",
+    "body-parser": "^1.12.3"
+  }
+}
